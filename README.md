@@ -48,6 +48,10 @@ My work spans browser-side tracking, server-side event processing, API integrati
       <img src="https://img.icons8.com/?size=100&id=by7K6EO4PeHT&format=png&color=000000" width="40" height="40" alt="Zapier"><br>
       Zapier
     </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=sLf4dvegwzM5&format=png&color=000000" width="40" height="40" alt="Zapier"><br>
+      CRM Integration 
+    </td>
   </tr>
 </table>
 
