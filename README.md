@@ -1,9 +1,5 @@
 <h1>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif"
-       alt="😎"
-       width="40"
-       height="40"
-       style="vertical-align: 4px;">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="36" height="36" align="absmiddle" alt="😎">
   Hey, nice to see you!
 </h1>
 
