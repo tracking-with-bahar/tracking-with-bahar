@@ -1,10 +1,10 @@
-# Hey, I'm Bahar Uddin
+# 😎 Hey, Nice to see you.
 
 **Tracking & Analytics Specialist | Conversion Tracking | Server-Side Tracking | CRM Integrations**
 
 I build reliable tracking systems that connect website activity, advertising platforms, and CRM customer outcomes.
 
-My work covers the full measurement lifecycle, from browser-side event collection and server-side processing to CRM integrations and offline conversion tracking. I focus on accurate data collection, reliable event delivery, and connecting qualified leads and customers back to advertising platforms.
+My work spans browser-side tracking, server-side event processing, API integrations, and offline conversion measurement. I focus on accurate data collection, reliable event delivery, and connecting qualified leads and customers back to advertising platforms.
 
 ## Core Skills
 
@@ -18,62 +18,52 @@ My work covers the full measurement lifecycle, from browser-side event collectio
 ![Webhooks](https://img.shields.io/badge/Webhooks-4A90E2?style=flat)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 
-## What I Do
+## What I Build
 
-| Area | What I Implement |
+| Area | Implementation |
 |---|---|
 | **Conversion Tracking** | GA4, Google Ads, Meta Pixel, Conversions API, and TikTok Events API |
-| **Server-Side Tracking** | Server-side Google Tag Manager (sGTM), event processing, validation, and routing |
+| **Server-Side Tracking** | sGTM event collection, validation, processing, and routing |
 | **Offline Conversion Tracking** | CRM lifecycle events, qualified leads, sales, and customer outcomes sent to advertising platforms |
 | **CRM Integrations** | Lead lifecycle synchronization and conversion data enrichment |
-| **API & Webhook Integrations** | Event-driven data exchange between websites, CRMs, and marketing platforms |
-| **GTM Development** | Custom tags, variables, templates, and reusable tracking components |
-| **Data Layer Architecture** | Structured events, consistent parameters, and ecommerce data |
+| **API & Webhook Integrations** | Data flows between websites, CRMs, payment systems, and marketing platforms |
+| **Custom GTM Development** | Custom tags, variables, templates, and reusable tracking components |
+| **Data Layer Architecture** | Structured events, consistent parameters, and ecommerce tracking |
 | **Click ID & Campaign Data** | GCLID, GBRAID, WBRAID, FBCLID, and UTM parameter collection |
-| **Consent-Aware Measurement** | Consent-aware tagging and privacy-conscious data collection |
+| **Measurement Quality** | Event validation, conversion deduplication, troubleshooting, and consent-aware tracking |
 
-## How I Approach Tracking
+## Tracking Architecture
 
-I design measurement systems around the complete customer journey, rather than treating each tracking tool as a separate implementation.
+I approach tracking as a connected measurement system, following data from the initial ad interaction through website activity and, where applicable, to the final customer outcome.
 
-**Typical architecture:**
+**Typical workflow:**
 
 `Ad Click → Website → GTM → Analytics / Conversion APIs → CRM → Offline Conversion Import`
 
-Depending on the project, this can involve:
+Depending on the project, the implementation may include:
 
-- Capturing campaign parameters and advertising click identifiers.
-- Structuring browser events through the data layer.
-- Collecting and processing events using client-side GTM and sGTM.
+- Capturing advertising click IDs and campaign parameters.
+- Structuring events and parameters through the data layer.
+- Collecting browser events and processing server-side data through sGTM.
 - Sending conversion events to analytics and advertising platforms.
 - Connecting website leads with CRM records and lifecycle stages.
-- Matching qualified leads and customers to their original advertising interactions.
+- Matching qualified leads and customers to advertising interactions.
 - Importing eligible offline conversions into advertising platforms.
 - Testing event payloads, identifiers, consent behavior, and deduplication.
 
-The architecture depends on the website, CRM, advertising platforms, and business requirements.
+The architecture is tailored to the website, CRM, advertising platforms, and business requirements.
 
 ## Technical Stack
 
 | Category | Technologies |
 |---|---|
-| Analytics & Tag Management | Google Analytics 4, Google Tag Manager |
-| Advertising Measurement | Google Ads, Meta Pixel, Meta Conversions API, TikTok Events API |
-| Server-Side Infrastructure | Server-side GTM, event processing, data routing |
-| Development | JavaScript, JSON, HTML, CSS |
-| Data Exchange | REST APIs, webhooks, HTTP requests |
-| Automation | Zapier, workflow automation |
-| Customer Data | CRM integrations, lead lifecycle tracking |
-| Measurement Quality | Event validation, conversion deduplication, consent-aware tagging |
-
-## Currently Exploring
-
-- Advanced server-side tracking architectures and event processing.
-- Custom GTM templates, variables, and tags.
-- CRM-driven conversion measurement and offline conversion imports.
-- Advertising platform APIs and conversion data synchronization.
-- Privacy-conscious measurement and consent-aware implementations.
-- More reliable event pipelines across websites, payment systems, and CRMs.
+| **Analytics & Tag Management** | Google Analytics 4, Google Tag Manager |
+| **Advertising Platforms** | Google Ads, Meta, TikTok |
+| **Server-Side Infrastructure** | Server-side GTM, event processing, data routing |
+| **Development** | JavaScript, JSON, HTML, CSS |
+| **Integrations** | REST APIs, webhooks, HTTP requests |
+| **Automation** | Zapier, workflow automation |
+| **Customer Data** | CRM integrations, lead lifecycle tracking |
 
 ## Let's Connect
 
