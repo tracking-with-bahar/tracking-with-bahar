@@ -1,4 +1,11 @@
-# 😎 Hey, Nice to see you.
+<h1>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif"
+       alt="Cool emoji"
+       width="40"
+       height="40"
+       align="center">
+  Hey, nice to see you!
+</h1>
 
 **Tracking & Analytics Specialist | Conversion Tracking | Server-Side Tracking | CRM Integrations**
 
