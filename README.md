@@ -8,17 +8,48 @@ My work spans browser-side tracking, server-side event processing, API integrati
 
 ## Core Skills
 
-<p align="left">
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="40" height="40">
-  <img src="https://img.icons8.com/?size=100&id=YuG5WvSJbGoq&format=png&color=000000" alt="Google Tag Manager" width="40" height="40">
-  <img src="https://img.icons8.com/?size=100&id=fcKpGwAbxxfP&format=png&color=000000" alt="GA4" width="40" height="40">
-  <img src="https://img.icons8.com/?size=100&id=ui4CTPMMDCFh&format=png&color=000000" alt="Google Ads" width="40" height="40">
-  <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" alt="Meta" width="40" height="40">
-  <img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000" alt="TikTok" width="40" height="40">
-  <img src="https://img.icons8.com/?size=100&id=21895&format=png&color=000000" alt="REST API" width="40" height="40">
-  <img src="https://img.icons8.com/?size=100&id=24459&format=png&color=000000" alt="Webhooks" width="40" height="40">
-  <img src="https://img.icons8.com/?size=100&id=by7K6EO4PeHT&format=png&color=000000" alt="Zapier" width="40" height="40">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="40" height="40" alt="JavaScript"><br>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=YuG5WvSJbGoq&format=png&color=000000" width="40" height="40" alt="Google Tag Manager"><br>
+      Google Tag Manager
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=fcKpGwAbxxfP&format=png&color=000000" width="40" height="40" alt="GA4"><br>
+      GA4
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=ui4CTPMMDCFh&format=png&color=000000" width="40" height="40" alt="Google Ads"><br>
+      Google Ads
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" width="40" height="40" alt="Meta"><br>
+      Meta
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000" width="40" height="40" alt="TikTok"><br>
+      TikTok
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=21895&format=png&color=000000" width="40" height="40" alt="REST API"><br>
+      REST API
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=24459&format=png&color=000000" width="40" height="40" alt="Webhooks"><br>
+      Webhooks
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=by7K6EO4PeHT&format=png&color=000000" width="40" height="40" alt="Zapier"><br>
+      Zapier
+    </td>
+  </tr>
+</table>
 
 ## What I Build
 
