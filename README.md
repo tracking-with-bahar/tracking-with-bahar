@@ -10,7 +10,7 @@ My work spans browser-side tracking, server-side event processing, API integrati
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 <img src="https://img.icons8.com/?size=100&id=YuG5WvSJbGoq&format=png&color=000000" alt="Google Tag Manager" width="40" height="40">
-![GA4](https://img.shields.io/badge/GA4-F9AB00?style=flat&logo=google-analytics&logoColor=white)
+<img src="https://img.icons8.com/?size=100&id=fcKpGwAbxxfP&format=png&color=000000" alt="GA4" width="40" height="40">
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=google-ads&logoColor=white)
 ![Meta CAPI](https://img.shields.io/badge/Meta%20CAPI-1877F2?style=flat&logo=meta&logoColor=white)
 ![TikTok](https://img.shields.io/badge/TikTok%20Events%20API-000000?style=flat&logo=tiktok&logoColor=white)
