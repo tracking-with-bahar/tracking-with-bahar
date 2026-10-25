@@ -23,20 +23,6 @@ My work spans browser-side tracking, server-side event processing, API integrati
       GA4
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=100&id=ui4CTPMMDCFh&format=png&color=000000" width="40" height="40" alt="Google Ads"><br>
-      Google Ads
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" width="40" height="40" alt="Meta"><br>
-      Meta
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/?size=100&id=118640&format=png&color=000000" width="40" height="40" alt="TikTok"><br>
-      TikTok
-    </td>
-    <td align="center">
       <img src="https://img.icons8.com/?size=100&id=21895&format=png&color=000000" width="40" height="40" alt="REST API"><br>
       REST API
     </td>
