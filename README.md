@@ -3,7 +3,7 @@
        alt="😎"
        width="40"
        height="40"
-       style="vertical-align: middle;">
+       style="vertical-align: -6px;">
   Hey, nice to see you!
 </h1>
 
