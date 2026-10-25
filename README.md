@@ -1,10 +1,9 @@
 <h1>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif"
-       alt="Cool emoji"
+       alt="😎"
        width="40"
        height="40"
-       align="center"
-       style="background: transparent;">
+       style="vertical-align: middle;">
   Hey, nice to see you!
 </h1>
 
