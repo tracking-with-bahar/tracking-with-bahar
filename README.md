@@ -3,7 +3,8 @@
        alt="Cool emoji"
        width="40"
        height="40"
-       align="center">
+       align="center"
+       style="background: transparent;">
   Hey, nice to see you!
 </h1>
 
